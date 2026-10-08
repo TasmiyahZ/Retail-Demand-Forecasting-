@@ -26,8 +26,8 @@ The final modelling calendar covers **25 June 2011 -- 25 July 2011**.
 
 For the final recursive WMA backtest:
 
--   Last actual available to the model: **13 July 2011**
--   Forecast period: **14 July -- 25 July 2011**
+-   Last actual available to the model: **14 July 2011**
+-   Forecast period: **15 July -- 25 July 2011**
 -   Actual Qty remains visible during the test period only for
     evaluation.
 
@@ -162,8 +162,8 @@ IF(
 
 ## 5. Recursive WMA3 and WMA5
 
-The final WMA process uses actual data only through 13 July and
-forecasts 14--25 July.
+The final WMA process uses actual data only through 14 July and
+forecasts 15--25 July.
 
 ### WMA3
 
