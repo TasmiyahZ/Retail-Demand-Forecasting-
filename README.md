@@ -355,25 +355,6 @@ values indicate under-forecasting.
 8.  On this backtest, the **7-day Rolling Average was the
     best-performing method**.
 
-## Repository Structure
-
-``` text
-retail-demand-forecasting-powerbi/
-│
-├── README.md
-├── data/
-│   └── online_retail_10sku_extended_july25.csv
-├── power-query/
-│   └── WMA3_WMA5_Recursive_Backtest.m
-├── dax/
-│   ├── Rolling_Average_Measures.dax
-│   └── Forecast_Error_Metrics.dax
-├── powerbi/
-│   └── Retail_Demand_Forecasting.pbix
-└── documentation/
-    └── Forecasting_Project_Steps_Taken.docx
-```
-
 ## Limitations and Next Steps
 
 This is a short demonstration backtest, so the result should not be
